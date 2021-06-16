@@ -1,0 +1,22 @@
+body{
+    margin:20px;
+    padding:20px;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+.btn{
+    margin-left:20px;
+}
+
+.c{
+    background-color: aqua;
+}
+
+#display_comma_array
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+    width: 50%;
+}
